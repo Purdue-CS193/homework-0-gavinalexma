@@ -6,8 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 #  Gavin's First CS193 Homework
 - The teachers
 - The icebreaker questions
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ### Markdown
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 ```markdown
 Syntax highlighted code block
 
